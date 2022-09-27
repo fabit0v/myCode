@@ -1,6 +1,6 @@
 # mycode (Project Title)
 
-This is my first project using python
+This is my first project using python. I want to learn how to version control projects with git.
 
 ## Getting Started
 
