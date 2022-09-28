@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+
+#Created list
+my_list = [ "192.168.0.5", 5060, "UP" ]
+
+#First item in list
+print("The first item in the list (IP): " + my_list[0] )
+
+#Second item in list
+print("The second item in the list (port): " + str(my_list[1]) )
+
+#Third item in list
+print("The last item in the list (state): " + my_list[2] )
+
+iplist = [ 5060, "80", 55, "10.0.0.1", "10.20.30.1", "ssh" ]
+
+print("The IP addesses are: " + iplist[3] + "and" + iplist[4])
